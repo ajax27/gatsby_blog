@@ -4,12 +4,12 @@
   "version": "1.0.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
-    "gatsby": "^1.9.247",
-    "gatsby-link": "^1.6.40",
-    "gatsby-plugin-catch-links": "^1.0.19",
-    "gatsby-plugin-react-helmet": "^2.0.10",
-    "gatsby-source-filesystem": "^1.5.29",
-    "gatsby-transformer-remark": "^1.7.39",
+    "gatsby": "^2.18.17",
+    "gatsby-link": "^2.2.27",
+    "gatsby-plugin-catch-links": "^2.1.21",
+    "gatsby-plugin-react-helmet": "^3.1.18",
+    "gatsby-source-filesystem": "^2.1.43",
+    "gatsby-transformer-remark": "^2.6.45",
     "material-ui": "^1.0.0-beta.41",
     "material-ui-icons": "^1.0.0-beta.36",
     "react-helmet": "^5.2.0"
